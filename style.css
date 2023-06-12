@@ -39,7 +39,7 @@ h1 {
 
 .data1{
     font-size: 15px;
-
+/*immagini*/
 }
 .tim-berners > img{
     margin-top: 10px;
@@ -49,15 +49,18 @@ h1 {
 .references{
     font-size: 10px;
 }
-
+/*paragrafo*/
 .evidenziato{
     background-color: yellow;
 }
-
+/*tabella*/
 ul{
     padding: 0px;
 }
 
+
+
+/*immagini del footer*/
 .second-images{
     background-image: url(../img/monitor.jpg);
     width: 250px;
