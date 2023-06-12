@@ -53,14 +53,37 @@ h1 {
 .evidenziato{
     background-color: yellow;
 }
-/*tabella*/
+
 ul{
     padding: 0px;
 }
+/*tabella*/
+thead {
+    background-color: rgb(0, 187, 255);
+}
+th{
+    color: white;
+    padding-right: 180px;
+}
 
+td {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: lightblue;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.differente{
+    background-color: white;
+}
 
 
 /*immagini del footer*/
+h4{
+    color: grey;
+}
+
 .second-images{
     background-image: url(../img/monitor.jpg);
     width: 250px;
@@ -70,4 +93,11 @@ ul{
     background-image: url(../img/graph.jpg);
     width: 250px;
     height: 200px;
+}
+
+.titolino{
+    color: white;
+    padding-top: 10px;
+    padding-left: 10px;
+    font-weight: bold;
 }
