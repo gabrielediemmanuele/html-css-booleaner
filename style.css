@@ -2,12 +2,12 @@ body {
     margin:auto;
 }
 .container {
-    width: 1200px;
+    width: 1000px;
     margin: auto;
 }
 
 .sub-container{
-    height: 100px;
+    height: 50px;
 }
 .pattern {
     background-image: url(../img/pattern.png);
@@ -18,4 +18,8 @@ body {
 .logo-boolean {
     width: 200px;
     text-align: right;
+}
+
+.tim-berners > img{
+    height: 250px;
 }
