@@ -1,0 +1,21 @@
+body {
+    margin:auto;
+}
+.container {
+    width: 1200px;
+    margin: auto;
+}
+
+.sub-container{
+    height: 100px;
+}
+.pattern {
+    background-image: url(../img/pattern.png);
+    background-color: rgb(0, 149, 255);
+    background-size: 200px;
+}
+
+.logo-boolean {
+    width: 200px;
+    text-align: right;
+}
