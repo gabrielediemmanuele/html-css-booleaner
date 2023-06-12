@@ -1,6 +1,7 @@
 body {
     margin:auto;
 }
+/*css dell'header*/
 .container {
     width: 1000px;
     margin: auto;
@@ -18,8 +19,41 @@ body {
 .logo-boolean {
     width: 200px;
     text-align: right;
+    margin-top: 20px;
 }
 
+/*css del main*/
+
+h1 {
+    font-size: 35px;
+}
+
+.intestazione{
+    color: grey;
+    font-weight: bold;
+}
+
+.booleaner{
+    color: rgb(0, 187, 255);
+}
+
+.data1{
+    font-size: 15px;
+
+}
 .tim-berners > img{
+    margin-top: 10px;
     height: 250px;
+}
+
+.references{
+    font-size: 10px;
+}
+
+.evidenziato{
+    background-color: yellow;
+}
+
+ul{
+    padding: 0px;
 }
