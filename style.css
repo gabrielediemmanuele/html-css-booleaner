@@ -57,3 +57,14 @@ h1 {
 ul{
     padding: 0px;
 }
+
+.second-images{
+    background-image: url(../img/monitor.jpg);
+    width: 250px;
+    height: 200px;
+}
+.third-images{
+    background-image: url(../img/graph.jpg);
+    width: 250px;
+    height: 200px;
+}
